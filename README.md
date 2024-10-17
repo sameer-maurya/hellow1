@@ -1,4 +1,4 @@
 # hellow1
 This is my first repository.
 <br>
-Author - sameer yadav
+Author - sameer maurya
